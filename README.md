@@ -8,7 +8,7 @@ En esta sesión, exploraremos los fundamentos de este poderoso lenguaje de progr
 
 JavaScript es un lenguaje de programación interpretado, dinámico y orientado a objetos. Fue creado en 1995 por Brendan Eich mientras trabajaba en Netscape Communications Corporation. Originalmente, JavaScript se diseñó para añadir comportamientos interactivos a las páginas web, pero su uso se ha extendido más allá del navegador, siendo utilizado también en el desarrollo del lado del servidor gracias a plataformas como Node.js.
 
-## Características de JavaScript:
+## Características princiaples de JavaScript:
 
 - Interactividad: Permite crear interfaces de usuario dinámicas y mejorar la experiencia del usuario en la web.
 - Flexibilidad: Soporta programación funcional, orientada a objetos e imperativa.
