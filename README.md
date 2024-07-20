@@ -25,3 +25,5 @@ JavaScript es un lenguaje de programación interpretado, dinámico y orientado a
 
 - [Listado de clases](/clases/README.md)
 - [Listado de retos](/retos/README.md)
+
+Prueba para Sync
