@@ -13,7 +13,7 @@
 4. Asignar valores apropiados y nombres a cada variable
 5. Escribir el código para imprimir (usar `console.log()`) el valor de cada variable y su tipo de dato, para ello (usar `typeof`)
 
-Ejemplo:
+## Ejemplo:
 
 ```javascript
 //Numero

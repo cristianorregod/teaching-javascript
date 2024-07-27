@@ -17,9 +17,10 @@ JavaScript es un lenguaje de programación interpretado, dinámico y orientado a
 
 ## Temario y clases
 
-| # clase | Tema           | Link a clase                                                                     | Reto                                              |
-| ------- | -------------- | -------------------------------------------------------------------------------- | ------------------------------------------------- |
-| 01      | Tipos de datos | [Clase 1: Variables y Tipos de datos](/clases/clase-01-tipos-de-datos/README.md) | [Reto 1](/retos/reto-01-tipos-de-datos/README.md) |
+| # clase | Tema                   | Link a clase                                                                         | Reto                                                      |
+| ------- | ---------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------- |
+| 01      | Tipos de datos         | [Clase 1: Variables y Tipos de datos](/clases/clase-01-tipos-de-datos/README.md)     | [Reto 1](/retos/reto-01-tipos-de-datos/README.md)         |
+| 02      | Estructuras de control | [Clase 2: Estructuras de control](/clases/clase-02-estructuras-de-control/README.md) | [Reto 1](/retos/reto-02-estructuras-de-control/README.md) |
 
 ## Accesos
 
