@@ -18,5 +18,5 @@ if (edadPersona >= edadMinima) {
 
 ### Ejemplos y Retos:
 
-- [Ejemplo tipos de datos](/clases/clase-02-estructuras-de-control/ejemplos.js)
+- [Ejemplo estructura condicional](/clases/clase-02-estructuras-de-control/ejemplos.js)
 - [Reto 2: Tipos de datos](/retos/reto-02-estructuras-de-control/README.md)
