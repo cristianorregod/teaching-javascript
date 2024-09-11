@@ -20,11 +20,10 @@ JavaScript es un lenguaje de programación interpretado, dinámico y orientado a
 | # clase | Tema                   | Link a clase                                                                         | Reto                                                      |
 | ------- | ---------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------- |
 | 01      | Tipos de datos         | [Clase 1: Variables y Tipos de datos](/clases/clase-01-tipos-de-datos/README.md)     | [Reto 1](/retos/reto-01-tipos-de-datos/README.md)         |
-| 02      | Estructuras de control | [Clase 2: Estructuras de control](/clases/clase-02-estructuras-de-control/README.md) | [Reto 1](/retos/reto-02-estructuras-de-control/README.md) |
+| 02      | Estructuras de control | [Clase 2: Estructuras de control](/clases/clase-02-estructuras-de-control/README.md) | [Reto 2](/retos/reto-02-estructuras-de-control/README.md) |
+| 03      | Ciclos                 | [Clase 3: Ciclos](/clases/clase-03-ciclos/README.md)                                 | [Reto 3](/retos/reto-03-ciclos/README.md)                 |
 
 ## Accesos
 
 - [Listado de clases](/clases/README.md)
 - [Listado de retos](/retos/README.md)
-
-Prueba para Sync
