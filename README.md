@@ -10,10 +10,10 @@ JavaScript es un lenguaje de programación interpretado, dinámico y orientado a
 
 ## Características princiaples de JavaScript:
 
-- Interactividad: Permite crear interfaces de usuario dinámicas y mejorar la experiencia del usuario en la web.
-- Flexibilidad: Soporta programación funcional, orientada a objetos e imperativa.
-- Multiplataforma: Se ejecuta en cualquier navegador y en diferentes entornos, como servidores y dispositivos móviles.
-- Amplio Ecosistema: Cuenta con una gran cantidad de bibliotecas y frameworks como React, Angular, y Vue.js.
+-   Interactividad: Permite crear interfaces de usuario dinámicas y mejorar la experiencia del usuario en la web.
+-   Flexibilidad: Soporta programación funcional, orientada a objetos e imperativa.
+-   Multiplataforma: Se ejecuta en cualquier navegador y en diferentes entornos, como servidores y dispositivos móviles.
+-   Amplio Ecosistema: Cuenta con una gran cantidad de bibliotecas y frameworks como React, Angular, y Vue.js.
 
 ## Temario y clases
 
@@ -22,8 +22,9 @@ JavaScript es un lenguaje de programación interpretado, dinámico y orientado a
 | 01      | Tipos de datos         | [Clase 1: Variables y Tipos de datos](/clases/clase-01-tipos-de-datos/README.md)     | [Reto 1](/retos/reto-01-tipos-de-datos/README.md)         |
 | 02      | Estructuras de control | [Clase 2: Estructuras de control](/clases/clase-02-estructuras-de-control/README.md) | [Reto 2](/retos/reto-02-estructuras-de-control/README.md) |
 | 03      | Ciclos                 | [Clase 3: Ciclos](/clases/clase-03-ciclos/README.md)                                 | [Reto 3](/retos/reto-03-ciclos/README.md)                 |
+| 04      | Funciones              | [Clase 4: Funciones](/clases/clase-03-funciones/README.md)                           | [Reto 4](/retos/reto-03-funciones/README.md)              |
 
 ## Accesos
 
-- [Listado de clases](/clases/README.md)
-- [Listado de retos](/retos/README.md)
+-   [Listado de clases](/clases/README.md)
+-   [Listado de retos](/retos/README.md)
