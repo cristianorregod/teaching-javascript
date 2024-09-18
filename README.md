@@ -22,7 +22,8 @@ JavaScript es un lenguaje de programación interpretado, dinámico y orientado a
 | 01      | Tipos de datos         | [Clase 1: Variables y Tipos de datos](/clases/clase-01-tipos-de-datos/README.md)     | [Reto 1](/retos/reto-01-tipos-de-datos/README.md)         |
 | 02      | Estructuras de control | [Clase 2: Estructuras de control](/clases/clase-02-estructuras-de-control/README.md) | [Reto 2](/retos/reto-02-estructuras-de-control/README.md) |
 | 03      | Ciclos                 | [Clase 3: Ciclos](/clases/clase-03-ciclos/README.md)                                 | [Reto 3](/retos/reto-03-ciclos/README.md)                 |
-| 04      | Funciones              | [Clase 4: Funciones](/clases/clase-03-funciones/README.md)                           | [Reto 4](/retos/reto-03-funciones/README.md)              |
+| 04      | Funciones              | [Clase 4: Funciones](/clases/clase-04-funciones/README.md)                           | [Reto 4](/retos/reto-04-funciones/README.md)              |
+| 05      | Métodos                | [Clase 5: Métodos](/clases/clase-05-metodos/README.md)                               | [Reto 5](/retos/reto-05-metodos/README.md)                |
 
 ## Accesos
 
